@@ -2,7 +2,9 @@
   "name": "@knax/react-native-zendesk-chat",
   "version": "0.3.2",
   "description": "React Native Wrapper around Zopim Zendesk Chat",
+  "summary": "React Native Wrapper around Zopim Zendesk Chat Summary",
   "main": "index.js",
+  "homepage": "https://github.com/knax/react-native-zendesk-chat",
   "repository": {
     "type": "git",
     "url": "https://github.com/knax/react-native-zendesk-chat"
